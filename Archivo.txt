@@ -1,0 +1,9 @@
+Estoy en un texto.
+
+Estoy en el segundo commit
+
+Regla de oro de Rebase: Nunca sobre ramas públicas.
+
+Entonces:
+	_ Rebase desde Dev (publica) hacia master (privada)
+	_ versionado con tags (git tag nombre commit
