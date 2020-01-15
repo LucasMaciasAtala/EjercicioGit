@@ -4,7 +4,6 @@ Estoy en el segundo commit
 
 Regla de oro de Rebase: Nunca sobre ramas públicas.
 
-
 Problema del rebase: 
 		     Se puede perder el commit de referencia sobre la cual parte alguna rama. 
 		     (Se reconfiguran los hash de los commits)
@@ -14,4 +13,3 @@ Problema del rebase:
 Entonces:
 	_ Rebase desde Dev (publica) hacia master (privada)
 	_ versionado con tags (git tag nombre commit
-
